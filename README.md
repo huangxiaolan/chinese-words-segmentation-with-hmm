@@ -16,7 +16,8 @@ data.py : 存放训练数据
 get_hmm_param: 从训练数据生成hmm算法的参数过程
 
 hmm_start: 训练并且返回短语“我要吃饭”的分词结果， python hmm_start.py
-#detail
+
+#des
 
 这个工程其实是介绍如何在中文分词中应用HMM算法的过程，其步骤如下：
 
